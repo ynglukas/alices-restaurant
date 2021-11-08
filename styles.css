@@ -28,7 +28,7 @@ body {
     height: 90vh;
     background-image: url(images/restaurantlogo.png);
     background-size: cover;
-    overflow: ;
+    overflow: auto;
 }
 
 .Landing .Sign {
@@ -101,7 +101,7 @@ body {
 	margin: .5em;
 }
 
-    .Contact div {
+.Contact div {
 	margin: 0 auto;
 	width: 40%;
 }
